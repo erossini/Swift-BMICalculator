@@ -1,1 +1,1 @@
-# Swuft-BMICalculator
+# Swift BMICalculator
