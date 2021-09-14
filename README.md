@@ -1,4 +1,5 @@
 # Swift Body Mass Index Calculator
+Simple Body Mass Index (BMI) calculator with Swift and iOS
 
 ## Screenshot
 ![Simulator Screen Shot - iPhone 11 - 2021-09-11 at 18 38 39](https://user-images.githubusercontent.com/9497415/132956441-e08949e1-8f08-44a8-8919-8838852ce995.png)
